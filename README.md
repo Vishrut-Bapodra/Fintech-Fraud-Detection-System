@@ -40,6 +40,12 @@ The model is unsupervised and does not rely on fraud labels.
 
 ---
 
+## 📸 Images
+<img width="1307" height="669" alt="Screenshot 2026-02-18 103301" src="https://github.com/user-attachments/assets/7e89885d-dbd3-4d7c-a4fb-b090497187a2" />
+
+
+---
+
 ## ⚙️ Installation
 
 1. Create virtual environment (recommended):
